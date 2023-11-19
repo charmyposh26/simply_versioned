@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Elaborate Train and Predict mode docs arguments (#8137)
